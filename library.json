@@ -1,6 +1,6 @@
 {
 	"name": "RAKwireless CAP1293 Touch Pad library",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"keywords": [
 		"touch",
 		"cap1293",
@@ -35,5 +35,5 @@
 		"type": "git",
 		"url": "https://github.com/andriyadi/RAK14002-CAP1293-Library"
 	},
-	"homepage": "https://rakwireless.com"
+	"homepage": "https://github.com/andriyadi/RAK14002-CAP1293-Library"
 }
